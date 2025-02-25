@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|c:\\users\\1591m\\source\\repos\\tictactoe\\tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|C:\\Users\\1591m\\source\\repos\\TicTacToe\\tictactoe\\wintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\wintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|C:\\Users\\1591m\\source\\repos\\TicTacToe\\tictactoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|C:\\Users\\1591m\\source\\repos\\TicTacToe\\tictactoe\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|C:\\Users\\1591m\\source\\repos\\TicTacToe\\tictactoe\\wininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\wininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|C:\\Users\\1591m\\source\\repos\\TicTacToe\\tictactoe\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|C:\\Users\\1591m\\source\\repos\\TicTacToe\\tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|C:\\Users\\1591m\\source\\repos\\TicTacToe\\tictactoe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1F0ECF-7150-4BF1-B93F-C546BF1A348F}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinType.cs",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\WinType.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\WinType.cs",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\WinType.cs",
+              "RelativeToolTip": "TicTacToe\\WinType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:33:45.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:12:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T11:12:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\GameState.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\GameState.cs",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\GameState.cs",
+              "RelativeToolTip": "TicTacToe\\GameState.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAA4wG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:41:51.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinInfo.cs",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\WinInfo.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\WinInfo.cs",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\WinInfo.cs",
+              "RelativeToolTip": "TicTacToe\\WinInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:37:46.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\GameResult.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\GameResult.cs",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\GameResult.cs",
+              "RelativeToolTip": "TicTacToe\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:40:13.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\App.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\App.xaml",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\App.xaml",
+              "RelativeToolTip": "TicTacToe\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T10:37:53.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\Player.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Player.cs",
+              "ToolTip": "C:\\Users\\1591m\\source\\repos\\TicTacToe\\TicTacToe\\Player.cs",
+              "RelativeToolTip": "TicTacToe\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:13:17.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
